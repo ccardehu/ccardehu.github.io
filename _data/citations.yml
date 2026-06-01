@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-06-01'
 papers:
   ZrmrQzUAAAAJ:2osOgNQ5qMEC:
     citations: 5
@@ -9,18 +9,42 @@ papers:
     citations: 2
     title: Generalized latent variable models for location, scale, and shape parameters
     year: '2025'
+  ZrmrQzUAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: Inflation Report June 2018
+    year: '2018'
   ZrmrQzUAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: A Generalized Additive Partial-Mastery Cognitive Diagnosis Model
     year: '2025'
+  ZrmrQzUAAAAJ:WF5omc3nYNoC:
+    citations: 0
+    title: "Informe sobre Inflaci\xF3n-Marzo de 2019"
+    year: '2019'
+  ZrmrQzUAAAAJ:YsMSGLbcyi4C:
+    citations: 0
+    title: "A Statistical Analysis of Heterogeneity on Labour Markets and Unemployment Rates in Colombia Un an\xE1lisis estad\xEDstico de la heterogeneidad en los mercados laborales y las tasas \u2026"
+    year: Unknown Year
+  ZrmrQzUAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: "Informe sobre Inflaci\xF3n-Diciembre de 2017"
+    year: '2017'
   ZrmrQzUAAAAJ:d1gkVwhDpl0C:
     citations: 30
     title: A statistical analysis of heterogeneity on labour markets and unemployment rates in Colombia
     year: '2015'
+  ZrmrQzUAAAAJ:eQOLeE2rZwMC:
+    citations: 1
+    title: "Informe sobre Inflaci\xF3n-Septiembre de 2017"
+    year: '2017'
   ZrmrQzUAAAAJ:qjMakFHDy7sC:
     citations: 6
     title: 'Understanding the Consumer confidence index in Colombia: a structural FAVAR analysis'
     year: '2019'
+  ZrmrQzUAAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: Inflation Report-December 2013
+    year: '2013'
   ZrmrQzUAAAAJ:u-x6o8ySG0sC:
     citations: 0
     title: 'Causal Inference in the presence of causally connected units: a semi-parametric hierarchical structural equation model approach'
@@ -29,3 +53,7 @@ papers:
     citations: 4
     title: 'Asymmetric effects of terms of trade shocks on tradable and non-tradable investment rates: The Colombian case'
     year: '2018'
+  ZrmrQzUAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: "Informe sobre Inflaci\xF3n-Junio de 2013"
+    year: '2013'
