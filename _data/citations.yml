@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-01'
 papers:
   ZrmrQzUAAAAJ:2osOgNQ5qMEC:
     citations: 5
@@ -9,6 +9,10 @@ papers:
     citations: 2
     title: Generalized latent variable models for location, scale, and shape parameters
     year: '2025'
+  ZrmrQzUAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: "A Statistical Analysis of Heterogeneity on Labour Markets and Unemployment Rates in Colombia Un an\xE1lisis estad\xEDstico de la heterogeneidad en los mercados laborales y las tasas \u2026"
+    year: Unknown Year
   ZrmrQzUAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: A Generalized Additive Partial-Mastery Cognitive Diagnosis Model
