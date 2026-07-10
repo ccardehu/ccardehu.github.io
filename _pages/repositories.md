@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: GitHub (+ Replication codes)
+title: GitHub and Replication codes
 description: A list of my `GitHub` repositories and replication codes
 nav: false
 nav_order: 4
@@ -44,11 +44,14 @@ nav_order: 4
     {% include repository/repo.liquid repository=repo %}
   {% endfor %}
 </div>
+
+---
+
 {% endif %}
 
 ## Replication codes
 
-Replication materials for my published papers:
+Replication materials:
  
 <div class="table-responsive">
   <table class="table table-sm">
