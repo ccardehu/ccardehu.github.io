@@ -2,7 +2,7 @@
   "basics": {
     "name": "Camilo A. Cárdenas Hurtado",
     "label": "Statistician, Economist",
-    "email": "c.a.cardenas-hurtado (at) lse.ac.uk",
+    "email": "c.a.cardenashurtado (at) uva.nl",
     "url": "https://ccardehu.github.io/"
   },
   "work": [
@@ -33,7 +33,7 @@
       "position": "Specialized Economist",
       "startDate": "2014-06",
       "endDate": "2019-07",
-      "highlights": ["Macroeconomic analysis", "GDP and inflation forecasting", "national income and balance of payments", "terms of trade shocks", "computational general equilibrium models"]
+      "highlights": ["Macroeconomic analysis", "GDP and inflation forecasting", "National income and balance of payments", "Terms of trade shocks", "Computational general equilibrium models"]
     },
     {
       "name": "Banco de la República",
@@ -41,7 +41,7 @@
       "position": "Economist",
       "startDate": "2011-08",
       "endDate": "2014-05",
-      "highlights": ["Labour Market analysis", "output gap"]
+      "highlights": ["Labour Market analysis", "Output gap"]
     }
   ],
   "education": [
