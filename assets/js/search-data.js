@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-vita",
-          title: "Vita",
-          description: "Academic and professional experience.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "dropdown-research",
               title: "Research",
               description: "",
